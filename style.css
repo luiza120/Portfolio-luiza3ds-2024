@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Updock&display=swap');
+
+
+:root{
+    --fonte-titulo: "Updock", cursive;
+    --fonte-titulo-2: "Edu AU VIC WA NT Guides";
+    --fonte-texto: "Afacad Flux", sans-serif;
+    --salmao: rgb(216, 180, 182);
+    --branco: rgb(248, 241, 241);
+    --vermelho: rgb(203, 14, 84);
+    --preto: rgb(5, 8, 10);
+    }
+
+    body{
+        background-color: var(--branco);
+        font-family: var(---fonte-segundaria);
+        color: var(--preto);
+        min-height: 100vh;
+    }
+
+h1,h3{
+    
+    font-family: var(--fonte-titulo);
+}
